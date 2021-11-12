@@ -1,0 +1,22 @@
+{
+  "name": "xeon-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NezzyAkio/Xeon-Test.git"
+  },
+  "author": "X3Z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NezzyAkio/Xeon-Test/issues"
+  },
+  "homepage": "https://github.com/NezzyAkio/Xeon-Test#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
